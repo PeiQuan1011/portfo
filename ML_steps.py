@@ -5,6 +5,4 @@
 #5 - Check the output
 #6 - Improve
 
-# blablablablabla
-
-print("hello from the outside!!!!!")
+# blablablablablablaoioi
