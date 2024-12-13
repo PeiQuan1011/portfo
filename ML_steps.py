@@ -6,5 +6,3 @@
 #6 - Improve
 
 # blablablablabla
-
-print("hello from the outside!!!!!")
